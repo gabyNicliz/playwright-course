@@ -11,7 +11,7 @@ test.describe('Home', () => {
 
     test('Open HomePage and verify title', async ({ page }) => {
         // verify title
-        await expect(page).toHaveTitle('Practice E-Commerce Site – Automation Bro');
+        await expect(page).toHaveTitle('About – Practice E-Commerce Site');
     });
 
     test('Open AboutPage and verify title', async ({ page }) => {
@@ -20,7 +20,7 @@ test.describe('Home', () => {
 
     test('Click get started button using CSS Selector', async ({ page }) => {
         // click the button
-        await homePage.getStartedBtn;
+        await homePage.getStartedBtn.click();
 
         // verify url has #get-started
         await expect(page).toHaveURL(/.*#get-started/);
