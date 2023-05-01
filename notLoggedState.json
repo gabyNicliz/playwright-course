@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "wp_wpfileupload_e07ef222fe18f1b43430eb5704226509",
+      "value": "7118Bhj2RjTR5WdS5qz5gbfXFCDOde2Q",
+      "domain": "practice.automationbro.com",
+      "path": "/",
+      "expires": 1683092392.34743,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tk_or",
+      "value": "%22%22",
+      "domain": ".automationbro.com",
+      "path": "/",
+      "expires": 1717479597.078122,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tk_r3d",
+      "value": "%22%22",
+      "domain": ".automationbro.com",
+      "path": "/",
+      "expires": 1683178797,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tk_lr",
+      "value": "%22%22",
+      "domain": ".automationbro.com",
+      "path": "/",
+      "expires": 1714455597,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
